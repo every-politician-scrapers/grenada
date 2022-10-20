@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+        "name": "Grenada",
+        "id": "Q769"
+    },
+    "cabinet": {
+        "id":     "Q114773771",
+        "start":  "2022-06-29",
+        "parent": "Q113555095"
+    },
+    "reference": {
+        "P854":   "https://www.thenewtodaygrenada.com/local-news/the-new-grenada-cabinet/",
+        "P577":   "2022-06-30",
+        "P1476": {
+            "text": "The new Grenada cabinet",
+            "language": "en"
+        }
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Grenada"
+    }
+}

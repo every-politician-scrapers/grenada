@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+        "name": "Grenada",
+        "id": "Q769"
+    },
+    "cabinet": {
+        "id":     "Q114773771",
+        "start":  "2022-06-29",
+        "parent": "Q113555095"
+    },
+    "reference": {
+        "P854":   "https://www.gov.gd/index.php/government/cabinet-ministers",
+        "P1476": {
+            "text": "Cabinet Ministers",
+            "language": "en"
+        }
+    },
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Grenada"
+    }
+}

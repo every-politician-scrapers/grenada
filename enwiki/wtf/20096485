@@ -1,0 +1,345 @@
+{
+  "title": "Karl Hood",
+  "pageID": 20096485,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Members of the House of Representatives of Grenada",
+    "Government ministers of Grenada",
+    "Foreign ministers of Grenada",
+    "People from Saint George Parish, Grenada",
+    "High Commissioners of Grenada to the United Kingdom",
+    "Ambassadors of Grenada to China",
+    "21st-century Grenadian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ignatius Joachim Karl Hood, known as Karl Hood, is a politician from the island nation of Grenada.",
+              "links": [
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "type": "internal",
+                  "page": "Grenada"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ignatius Joachim Karl Hood",
+                  "Karl Hood"
+                ]
+              }
+            },
+            {
+              "text": "He served as an MP, Minister of Labour, Social Security and Ecclesiastical Affairs (2008-2010) and as Minister of Foreign Affairs (2010-2012) in a government led by former prime minister Tillman Thomas.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Grenada)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tillman Thomas"
+                }
+              ]
+            },
+            {
+              "text": "He resigned as Minister of Foreign Affairs on 18 May 2012 after he abstained from a no-confidence vote against the government two days earlier."
+            },
+            {
+              "text": "He currently serves as Grenada's High Commissioner to the United Kingdom.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Grenadian politician",
+          "template": "short description"
+        },
+        {
+          "3": "Anexo:Embajadores de Granada en China",
+          "list": [
+            "Ambassador of Grenada to China",
+            "es"
+          ],
+          "template": "interlanguage link multi"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ignatius Joachim Karl Hood"
+          },
+          "image": {
+            "text": "Karl Hood.jpg"
+          },
+          "office": {
+            "text": "High Commissioner of Grenada to the United Kingdom",
+            "links": [
+              {
+                "text": "High Commissioner of Grenada to the United Kingdom",
+                "type": "internal",
+                "page": "List of High Commissioners of Grenada to the United Kingdom"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Keith Mitchell",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Keith Mitchell"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 January 2016"
+          },
+          "predecessor": {
+            "text": "Joslyn Whiteman"
+          },
+          "primeminister2": {
+            "text": "Keith Mitchell",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Keith Mitchell"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2013-04-27"
+          },
+          "term_end2": {
+            "text": "8 January 2016"
+          },
+          "predecessor2": {
+            "text": "Joslyn Whiteman"
+          },
+          "successor2": {
+            "text": "Denis Godwin Antoine",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Denis Godwin Antoine"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Minister of Foreign Affairs (Grenada)"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Tillman Thomas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tillman Thomas"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "26 November 2010"
+          },
+          "term_end3": {
+            "text": "18 May 2012"
+          },
+          "predecessor3": {
+            "text": "Peter David",
+            "links": [
+              {
+                "text": "Peter David",
+                "type": "internal",
+                "page": "Peter David (politician)"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Tillman Thomas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tillman Thomas"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister of Labour, Social Security and Ecclesiastical Affairs"
+          },
+          "primeminister4": {
+            "text": "Tillman Thomas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tillman Thomas"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "July 9, 2008, 2008"
+          },
+          "term_end4": {
+            "text": "26 November 2010"
+          },
+          "successor4": {
+            "text": "Glynis Roberts"
+          },
+          "office5": {
+            "text": "Member of Parliament for St. George South-East"
+          },
+          "term_start5": {
+            "text": "8 July 2008"
+          },
+          "term_end5": {
+            "text": "13 February 2013"
+          },
+          "predecessor5": {
+            "text": "Gregory Bowen"
+          },
+          "successor5": {
+            "text": "Gregory Bowen"
+          },
+          "birth_place": {
+            "text": "Happy Hill, Saint George, Grenada",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Happy Hill"
+              },
+              {
+                "text": "Saint George",
+                "type": "internal",
+                "page": "Saint George Parish, Grenada"
+              },
+              {
+                "type": "internal",
+                "page": "Grenada"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Grenadian"
+          },
+          "party": {
+            "text": "National Democratic Congress (before 2013)\nNew National Party (2013-present)",
+            "links": [
+              {
+                "text": "National Democratic Congress",
+                "type": "internal",
+                "page": "National Democratic Congress (Grenada)"
+              },
+              {
+                "text": "New National Party",
+                "type": "internal",
+                "page": "New National Party (Grenada)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "West Indies School of Theology Nyack College Newport University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "West Indies School of Theology"
+              },
+              {
+                "type": "internal",
+                "page": "Nyack College"
+              },
+              {
+                "type": "internal",
+                "page": "Newport University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Religious leader Optician politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Religious leader"
+              },
+              {
+                "type": "internal",
+                "page": "Optician"
+              },
+              {
+                "text": "politician",
+                "type": "internal",
+                "page": "politician"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Embassies & Consulates",
+          "url": "http://www.gov.gd/embassies_consulates.html",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "grenada-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Ministry webpage",
+            "links": [
+              {
+                "text": "Ministry webpage",
+                "type": "external",
+                "site": "http://www.gov.gd/biographies/karl_hood_bio.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

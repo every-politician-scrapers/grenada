@@ -1,0 +1,81 @@
+{
+  "title": "Claudette Joseph",
+  "pageID": 71495411,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "Female justice ministers",
+    "Women government ministers of Grenada",
+    "21st-century Grenadian politicians",
+    "21st-century Grenadian women politicians",
+    "National Democratic Congress (Grenada) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Claudette Joseph is a Grenadian politician from the National Democratic Congress.",
+              "links": [
+                {
+                  "text": "National Democratic Congress",
+                  "type": "internal",
+                  "page": "National Democratic Congress (Grenada)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Claudette Joseph"
+                ]
+              }
+            },
+            {
+              "text": "She is currently Attorney General and Minister of Legal Affairs, Labour and Consumer Affairs."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Grenadian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Caribbean Elections Biography {{!}} Claudette Joseph",
+          "url": "http://caribbeanelections.com/knowledge/biography/bios/joseph_claudette.asp",
+          "access-date": "2022-08-10",
+          "website": "caribbeanelections.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-08-10",
+          "title": "Lawyer, Community Activist",
+          "url": "https://ndcgrenada.org/caretakers/claudette-joseph/",
+          "access-date": "2022-08-10",
+          "website": "ndcgrenada.org",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "grenada-politician-stub"
+        }
+      ]
+    }
+  ]
+}

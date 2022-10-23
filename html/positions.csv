@@ -1,6 +1,6 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q22091831,Attorney General of Grenada,,,,,,,,,Attorney General of Grenada
-Q28841324,Governor General of Grenada,Q769,,,Q28841324,,,,,Governor-General of Grenada
+Q28841324,Governor General of Grenada,Q769,,,,,,,,Governor-General of Grenada
 Q28404596,Grenadian Ambassador to the United States,,,,Q113564205,,,,,
 Q21290858,Member of the House of Representatives of Grenada,Q769,Q769,,,,,,,
 Q21295137,Member of the Senate of Grenada,,Q769,,,,,,,

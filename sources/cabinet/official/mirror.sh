@@ -5,7 +5,7 @@ cd $(dirname $0)
 if [[ $(jq -r .reference.P854 meta.json) == http* ]]
 then
   TMPFILE=$(mktemp)
-  CURLOPTS='-L -c /tmp/cookies -A eps/1.2'
+  CURLOPTS='--compressed -L -c /tmp/cookies -A eps/1.2 --insecure'
 
   curl $CURLOPTS -o $TMPFILE $(jq -r .reference.P854 meta.json)
 

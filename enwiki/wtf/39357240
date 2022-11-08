@@ -421,7 +421,7 @@
               ]
             },
             {
-              "text": "She has, as patron of the Willie Redhead Foundation, been an outspoken supporter of the restoration of Grenada's built heritage, especially Government House and York House; the former seat of Parliament.",
+              "text": "She has, as patron of the Willie Redhead Foundation, been an outspoken supporter of the restoration of Grenada's built heritage, especially the viceregal residence of Government House and York House; the former seat of Parliament.",
               "links": [
                 {
                   "type": "internal",
@@ -439,7 +439,7 @@
         {
           "sentences": [
             {
-              "text": "Dame Cécile was the Governor-General of Grenada at the time of the Death of Queen Elizabeth II and the ascension to the throne of King Charles III as the second monarch of Grenada.",
+              "text": "Dame Cécile was the Governor-General of Grenada at the time of the Death of Queen Elizabeth II and the ascension to the throne of King Charles III as the island’s second monarch post-independence.",
               "links": [
                 {
                   "type": "internal",
@@ -449,6 +449,15 @@
                   "text": "King Charles III",
                   "type": "internal",
                   "page": "Charles III"
+                }
+              ]
+            },
+            {
+              "text": "She attended the Funeral of Queen Elizabeth II as the Grenadian representative.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Funeral of Queen Elizabeth II"
                 }
               ]
             }
